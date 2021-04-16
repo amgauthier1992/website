@@ -5120,7 +5120,8 @@ textarea {
     background-color: transparent;
   }
   .navbar-inverse .navbar-collapse {
-    background-color: #000;
+    /* background-color: #000; */
+    background-color: #00000073;
   }
   .navbar-default {
     background-color: transparent;
