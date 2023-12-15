@@ -4953,7 +4953,7 @@ textarea {
 }
 .card-container {
   background-color: #fff;
-  padding: 2rem 5rem;
+  padding: 2rem 4rem; /* changed */
   position: relative;
   width: 80%;
   margin: -10em auto 20px;
@@ -5176,5 +5176,8 @@ textarea {
 .list-icons li {
   float: left;
   margin-right: 5px;
+}
+.project-type {
+  font-weight: 600;
 }
 /*# sourceMappingURL=main.70a66962.map*/
