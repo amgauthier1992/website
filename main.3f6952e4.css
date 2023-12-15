@@ -3892,6 +3892,7 @@ fieldset[disabled] .navbar-default .btn-link:hover {
 }
 .navbar-inverse .navbar-nav > li > a,
 .navbar-inverse .navbar-text {
+  /* here */
   color: #ffffff;
 }
 .navbar-inverse .navbar-nav > .active > a,
@@ -5080,8 +5081,10 @@ textarea {
 .navbar-inverse .navbar-toggle:hover {
   background-color: #fff;
 }
-@media (min-width: 768px) {
+@media (min-width: 768px) { 
   .navbar-inverse .navbar-nav > li > a {
+    /* here */
+    color: #000;
     border-right: 1px solid #00000078;
   }
 }
