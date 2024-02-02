@@ -88,6 +88,11 @@ sub {
 img {
   border: 0;
 }
+.img-headshot {
+  height: 400px;
+  width: 275px;
+  max-width: 100%;
+}
 svg:not(:root) {
   overflow: hidden;
 }
